@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">Senior Computer Science Student at the University of Central Florida</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbrand0n" alt="bbrand0n" /></a> </p>
-
 - 🔭 I’m currently working on [SafeLinc](https://github.com/STIR-Lab/Safeplan-iOS)
 
 - 🌱 I’m currently learning **Front End, System Integration, Simulation, Machine Learning**
