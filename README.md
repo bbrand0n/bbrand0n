@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">Senior Computer Science Student at the University of Central Florida</h3>
 
-- 🔭 I’m currently working on [SafeLinc](https://github.com/STIR-Lab/Safeplan-iOS)
+- 🔭 I’m currently working on [Scrabble](https://github.com/bbrand0n/Scrabble)
 
 - 🌱 I’m currently learning **Front End, System Integration, Simulation, Machine Learning**
 
 - 💬 Ask me about **Simulations and Machine Learning!**
 
-- 📫 How to reach me **brandongibbons@knights.ucf.edu**
+- 📫 How to reach me **brandongib@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brandon-gibbons-20a097210/](https://www.linkedin.com/in/brandon-gibbons-20a097210/)
 
-- ⚡ Fun fact **I am an aspiring guitarist!**
+- ⚡ Fun fact **I am an aspiring guitarist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
