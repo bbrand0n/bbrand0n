@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Simulations and Machine Learning!**
 
-- 📫 How to reach me **brandongib@gmail.com**
+- 📫 How to reach me **brandongib06@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brandon-gibbons-20a097210/](https://www.linkedin.com/in/brandon-gibbons-20a097210/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/brandongibbons7/](https://www.linkedin.com/in/brandongibbons7/)
 
 - ⚡ Fun fact **I am an aspiring guitarist**
 
